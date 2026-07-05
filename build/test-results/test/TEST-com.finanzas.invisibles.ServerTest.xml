@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.finanzas.invisibles.ServerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-07-05T22:40:05.667Z" hostname="JOSSBARR" time="1.711">
+  <properties/>
+  <testcase name="test root endpoint" classname="com.finanzas.invisibles.ServerTest" time="1.705"/>
+  <system-out><![CDATA[2026-07-05 16:40:07.040 [DefaultDispatcher-worker-2 @call-context#3] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2026-07-05 16:40:07.171 [DefaultDispatcher-worker-2 @call-context#3] INFO  io.ktor.test - Application started in 0.155 seconds.
+2026-07-05 16:40:07.176 [DefaultDispatcher-worker-1 @coroutine#5] INFO  io.ktor.test - Responding at http://localhost:80
+2026-07-05 16:40:07.176 [DefaultDispatcher-worker-1 @coroutine#5] INFO  io.ktor.test - Responding at https://localhost:443
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
